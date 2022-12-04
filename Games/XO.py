@@ -212,7 +212,6 @@ class xo:
         self.Playing = False
 
 
-game = xo()
 
 
         
